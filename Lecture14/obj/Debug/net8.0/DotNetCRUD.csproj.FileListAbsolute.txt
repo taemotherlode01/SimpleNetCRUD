@@ -1,0 +1,8 @@
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.csproj.AssemblyReference.cache
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.AssemblyInfoInputs.cache
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.AssemblyInfo.cs
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.csproj.CoreCompileInputs.cache
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.RazorAssemblyInfo.cache
+C:\Users\taein\source\repos\DotNetCRUD\Lecture14\obj\Debug\net8.0\DotNetCRUD.RazorAssemblyInfo.cs
